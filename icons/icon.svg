@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6C63FF"/>
+      <stop offset="100%" stop-color="#4A42D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <!-- Headphone band -->
+  <path d="M32 72 C32 44 48 28 64 28 C80 28 96 44 96 72"
+        fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+  <!-- Left ear cup -->
+  <rect x="24" y="66" width="16" height="26" rx="6" fill="#fff"/>
+  <!-- Right ear cup -->
+  <rect x="88" y="66" width="16" height="26" rx="6" fill="#fff"/>
+</svg>
